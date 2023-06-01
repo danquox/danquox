@@ -1,4 +1,3 @@
-### Howdy
 
 ![uh](home.png)
 
