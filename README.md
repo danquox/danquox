@@ -1,5 +1,5 @@
 ### Howdy
-<img width=200 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=danquox&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt=""></img>
+<img width=200 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=danquox&theme=dark)" alt=""></img>
 
 
 <!--
