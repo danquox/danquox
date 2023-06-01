@@ -1,3 +1,3 @@
 ### Howdy
-![uh](https://i.redd.it/7kgkoysahpw31.gif)
+![uh](https://images.wallpapersden.com/image/download/anime-sunset-hd-alone-with-cat_bW5la2iUmZqaraWkpJRmbmdlrWZlbWU.jpg)
 <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danquox&theme=dark&layout=compact&card_width=1000" alt=""></img> -->
