@@ -1,5 +1,5 @@
 ### Hi, I'm Dang 🤠
-[![Danquox's Stats](https://github-readme-stats.vercel.app/api?username=danquox)](https://github.com/anuraghazra/github-readme-stats)
+[![Danquox's Stats](https://github-readme-stats.vercel.app/api?username=danquox)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
 <!--
 **danquox/danquox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
